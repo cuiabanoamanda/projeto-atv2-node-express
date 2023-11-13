@@ -1,0 +1,59 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Pastas
+node_modules/
+dist/
+tmp/
+temp/
+
+# Arquivos de configuração
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ficheiros temporários
+*.bak
+*.swp
+*~.nib
+Thumbs.db
+ehthumbs.db
+
+# Ficheiros de sistema
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Cache
+[Tt]humbs.db
+*.db
+
+# Ficheiros compilados
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Dependências
+/vendor/
+/node_modules/
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# npm debug log
+npm-debug.log*
+
+# vscode
+.vscode/
+
+# env
+.env

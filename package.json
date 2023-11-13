@@ -1,0 +1,16 @@
+{
+  "name": "projeto-ativ-2",
+  "version": "1.0.0",
+  "description": "Atividade 2 formu",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius Santos Abril",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
